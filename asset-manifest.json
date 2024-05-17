@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-tic-ad/static/css/main.f53f0896.css",
+    "main.js": "/react-tic-ad/static/js/main.5753a983.js",
+    "static/js/453.68b482ab.chunk.js": "/react-tic-ad/static/js/453.68b482ab.chunk.js",
+    "index.html": "/react-tic-ad/index.html",
+    "main.f53f0896.css.map": "/react-tic-ad/static/css/main.f53f0896.css.map",
+    "main.5753a983.js.map": "/react-tic-ad/static/js/main.5753a983.js.map",
+    "453.68b482ab.chunk.js.map": "/react-tic-ad/static/js/453.68b482ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53f0896.css",
+    "static/js/main.5753a983.js"
+  ]
+}
